@@ -48,7 +48,7 @@ namespace Binary_Clock
             Console.WriteLine("Scrieti datele unei ore:");
             string x = Console.ReadLine();
             Console.WriteLine();
-            Console.WriteLine("si reprezentati-le printr un Binary Clock: ");
+            Console.WriteLine("si reprezentati-le printr-un Binary Clock: ");
 
             if (x.Length != 8)
             {
